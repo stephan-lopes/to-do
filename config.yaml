@@ -1,0 +1,7 @@
+api:
+  port: 3000
+
+db:
+  user: user_todo
+  password: "1122"
+  database: api_todo
